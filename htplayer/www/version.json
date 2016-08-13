@@ -1,0 +1,5 @@
+{
+  "version":"0.0.1",
+  "url":"myversion",
+  "download":[ "htplayer/welcome.html","htplayer/VersionControl.js","htplayer/login.html","htplayer/login.js"]
+}
